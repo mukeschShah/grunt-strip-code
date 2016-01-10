@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/philipwalton/grunt-strip-code.git"
+    "url": "git@github.com:mukeschShah/grunt-strip-code.git"
   },
   "bugs": {
     "url": "https://github.com/philipwalton/grunt-strip-code/issues"
